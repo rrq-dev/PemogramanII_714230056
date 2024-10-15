@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\obj\Debug\P2 Pemograman II.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\obj\Debug\P2 Pemograman II.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\bin\Debug\P2 Pemograman II.exe.config
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\bin\Debug\P2 Pemograman II.exe
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\bin\Debug\P2 Pemograman II.pdb
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\obj\Debug\P2 Pemograman II.exe
+C:\Users\ASUS\source\repos\P2 Pemograman II\P2 Pemograman II\obj\Debug\P2 Pemograman II.pdb
