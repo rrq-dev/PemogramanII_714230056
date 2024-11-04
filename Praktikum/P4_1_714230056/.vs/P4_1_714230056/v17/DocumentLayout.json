@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|c:\\users\\asus\\source\\repos\\p4_1_714230056\\p4_1_714230056\\book_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|solutionrelative:p4_1_714230056\\book_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|c:\\users\\asus\\source\\repos\\p4_1_714230056\\p4_1_714230056\\dvd_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|solutionrelative:p4_1_714230056\\dvd_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|c:\\users\\asus\\source\\repos\\p4_1_714230056\\p4_1_714230056\\product_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|solutionrelative:p4_1_714230056\\product_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|c:\\users\\asus\\source\\repos\\p4_1_714230056\\p4_1_714230056\\producttest_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F812E1E-71AC-4C44-8BD7-09C0EEE2764D}|P4_1_714230056\\P4_1_714230056.csproj|solutionrelative:p4_1_714230056\\producttest_714230056.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVD_714230056.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\DVD_714230056.cs",
+              "RelativeDocumentMoniker": "P4_1_714230056\\DVD_714230056.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\DVD_714230056.cs",
+              "RelativeToolTip": "P4_1_714230056\\DVD_714230056.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:57:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book_714230056.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\Book_714230056.cs",
+              "RelativeDocumentMoniker": "P4_1_714230056\\Book_714230056.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\Book_714230056.cs",
+              "RelativeToolTip": "P4_1_714230056\\Book_714230056.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:55:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductTest_714230056.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\ProductTest_714230056.cs",
+              "RelativeDocumentMoniker": "P4_1_714230056\\ProductTest_714230056.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\ProductTest_714230056.cs",
+              "RelativeToolTip": "P4_1_714230056\\ProductTest_714230056.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:52:01.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product_714230056.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\Product_714230056.cs",
+              "RelativeDocumentMoniker": "P4_1_714230056\\Product_714230056.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\P4_1_714230056\\P4_1_714230056\\Product_714230056.cs",
+              "RelativeToolTip": "P4_1_714230056\\Product_714230056.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:36:33.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
