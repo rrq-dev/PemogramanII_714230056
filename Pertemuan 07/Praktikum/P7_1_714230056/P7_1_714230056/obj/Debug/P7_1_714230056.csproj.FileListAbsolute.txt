@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\bin\Debug\P7_1_714230056.exe.config
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\bin\Debug\P7_1_714230056.exe
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\bin\Debug\P7_1_714230056.pdb
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.Form1.resources
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.Properties.Resources.resources
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.exe
+C:\Users\ASUS\source\repos\P7_1_714230056\P7_1_714230056\obj\Debug\P7_1_714230056.pdb
