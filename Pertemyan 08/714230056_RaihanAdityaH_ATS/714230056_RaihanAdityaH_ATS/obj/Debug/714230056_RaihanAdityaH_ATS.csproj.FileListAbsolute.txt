@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\bin\Debug\714230056_RaihanAdityaH_ATS.exe.config
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\bin\Debug\714230056_RaihanAdityaH_ATS.exe
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\bin\Debug\714230056_RaihanAdityaH_ATS.pdb
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\714230056_RaihanAdityaH_ATS.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\_714230056_RaihanAdityaH_ATS.Form1.resources
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\_714230056_RaihanAdityaH_ATS.Properties.Resources.resources
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\714230056_RaihanAdityaH_ATS.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\714230056_RaihanAdityaH_ATS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\714230056_RaihanAdityaH_ATS.exe
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\714230056_RaihanAdityaH_ATS.pdb
+C:\Users\ASUS\source\repos\714230056_RaihanAdityaH_ATS\714230056_RaihanAdityaH_ATS\obj\Debug\_714230056_RaihanAdityaH_ATS.Form2.resources
